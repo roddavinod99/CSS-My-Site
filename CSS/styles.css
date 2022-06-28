@@ -8,16 +8,14 @@ margin-top: 0px;
 }
 
 .top-container{
-    width: 200px;
-    height: 200px;
      background-color:#DFF6FF;
      padding: 40px;
-     border: solid 10px;
 }
 .middle-container {
 width: 200px;
 height:200px;
 background-color: red;
+
 }
 
 .bottom-container {
